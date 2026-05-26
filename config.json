@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheearse",
+        "uuid": 4629328,
+        "checksum": "pjl4cn"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
